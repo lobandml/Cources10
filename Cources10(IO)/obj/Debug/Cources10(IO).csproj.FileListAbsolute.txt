@@ -3,3 +3,4 @@ c:\users\oleg\documents\visual studio 2012\Projects\Cources10(IO)\Cources10(IO)\
 c:\users\oleg\documents\visual studio 2012\Projects\Cources10(IO)\Cources10(IO)\obj\Debug\Cources10(IO).csprojResolveAssemblyReference.cache
 c:\users\oleg\documents\visual studio 2012\Projects\Cources10(IO)\Cources10(IO)\obj\Debug\Cources10(IO).exe
 c:\users\oleg\documents\visual studio 2012\Projects\Cources10(IO)\Cources10(IO)\obj\Debug\Cources10(IO).pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Cources10(IO)\Cources10(IO)\bin\Debug\Cources10(IO).exe.config
